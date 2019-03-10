@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using MongoDB.Bson;
 
 namespace guimongobasedapi.Controllers
 {
@@ -17,12 +18,23 @@ namespace guimongobasedapi.Controllers
             return new string[] { "value1", "value2" };
         }
 
-        // GET api/values/5
-        // That route accept only numeric values as ids
+        // GET api/values/5c58f44c4d8f003f788924b8
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public ActionResult<string> Get(string id)
         {
-            return "value";
+            // Declaration of data types 
+            bool result;
+            ObjectId value;
+
+            // Validate if the String is a valid bson.ObjectId
+            result = ObjectId.TryParse(id, out value);
+
+            if (result) { 
+                    return "Valid ObjectId";
+                }
+            return "Not Valid ObjectId";
+
+
         }
 
         // POST api/values
