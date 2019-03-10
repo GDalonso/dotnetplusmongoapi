@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{25F1D424-7843-4DC2-A7CF-48879FC7ECA5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="guimongobasedapi/Startup.cs">
+    <Files>
+      <File FileName="guimongobasedapi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="guimongobasedapi/Controllers/ValuesController.cs" Line="22" Column="9" />
+      <File FileName="guimongobasedapi/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.guimongobasedapi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

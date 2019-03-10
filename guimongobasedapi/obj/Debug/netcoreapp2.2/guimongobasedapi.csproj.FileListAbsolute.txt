@@ -1,0 +1,14 @@
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/bin/Debug/netcoreapp2.2/guimongobasedapi.deps.json
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/bin/Debug/netcoreapp2.2/guimongobasedapi.runtimeconfig.json
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/bin/Debug/netcoreapp2.2/guimongobasedapi.runtimeconfig.dev.json
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/bin/Debug/netcoreapp2.2/guimongobasedapi.dll
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/bin/Debug/netcoreapp2.2/guimongobasedapi.pdb
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/obj/Debug/netcoreapp2.2/guimongobasedapi.csprojAssemblyReference.cache
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/obj/Debug/netcoreapp2.2/guimongobasedapi.csproj.CoreCompileInputs.cache
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/obj/Debug/netcoreapp2.2/guimongobasedapi.RazorAssemblyInfo.cache
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/obj/Debug/netcoreapp2.2/guimongobasedapi.RazorAssemblyInfo.cs
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/obj/Debug/netcoreapp2.2/guimongobasedapi.AssemblyInfoInputs.cache
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/obj/Debug/netcoreapp2.2/guimongobasedapi.AssemblyInfo.cs
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/obj/Debug/netcoreapp2.2/guimongobasedapi.RazorTargetAssemblyInfo.cache
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/obj/Debug/netcoreapp2.2/guimongobasedapi.dll
+/home/gui/dotnet/guiapi/guimongobasedapi/guimongobasedapi/guimongobasedapi/obj/Debug/netcoreapp2.2/guimongobasedapi.pdb
